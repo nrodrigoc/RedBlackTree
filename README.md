@@ -13,3 +13,5 @@ javac *.java
 java Principal res/instance.100000.in
 ``` 
 #### Then, program will ask you the key that you want to find and print the node informations
+
+##### Obs.: The file should contains, as first line, the number of elements.
