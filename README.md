@@ -2,7 +2,7 @@
 
 ## How to use the program
 
-#### If you want to compile, through the terminal/prompt, come in the folder "src" and type:
+#### If you want to compile, through the terminal/prompt, enter the folder "src" and type:
 
 ```
 javac *.java
